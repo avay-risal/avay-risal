@@ -2,7 +2,7 @@
 
 I am Avay Risal.</br>
 
-I am working as a Postdoctoral Research Associate in Texas A&M AgriLife Research and Extension Center, Lubbock, Texas. </br>
+I am a postdoctoral researcher at Texas A&M AgriLife Research and Extension Center, Lubbock, Texas. </br>
 
 My main field of expertise is GIS, Remote-sensing, hydrologic/water-quality/agricultural modelling, data analysis, reporting, and writing research articles. </br>
 
