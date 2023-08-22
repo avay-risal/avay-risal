@@ -2,13 +2,13 @@
 
 I am Avay Risal.</br>
 
-I am a postdoctoral researcher at Texas A&M AgriLife Research and Extension Center, Lubbock, Texas. </br>
+I am a postdoctoral researcher at the Earth System Science Interdisciplinary Center, University of Maryland </br>
 
 My main field of expertise is GIS, Remote-sensing, hydrologic/water-quality/agricultural modelling, data analysis, reporting, and writing research articles. </br>
 
 I’m interested in learning codes for data analys/visualization.</br>
 
-I’m currently learning basic python codes using i-python notebook in Jupyter.</br>
+I’m currently learning python (i-python notebook in Jupyter) and r (R studio).</br>
 
 <a href="https://scholar.google.co.kr/citations?user=XHexQEoAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
