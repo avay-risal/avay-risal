@@ -4,9 +4,9 @@ I am Avay Risal.</br>
 
 I am a postdoctoral researcher at the Earth System Science Interdisciplinary Center, University of Maryland </br>
 
-My main field of expertise is GIS, Remote-sensing, hydrologic/water-quality/agricultural modelling, data analysis, reporting, and writing research articles. </br>
+My main field of expertise is GIS, Remote-sensing, ecosystem/ carbon/hydrologic/water-quality/agricultural modelling </br>
 
-I’m interested in learning codes for data analys/visualization.</br>
+I’m learning codes for data analys/visualization.</br>
 
 I’m currently learning python (i-python notebook in Jupyter) and r (R studio).</br>
 
