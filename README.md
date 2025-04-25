@@ -1,14 +1,32 @@
- ## Hi  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
+ # 👋 Hi there, I'm Avay Risal, Ph.D.
 
-I am Avay Risal.</br>
+I'm a Postdoctoral Researcher with a deep passion for **water resources engineering**, **hydrologic/hydraulic modeling**, and **geospatial data analysis**. With over six years of research experience, my work focuses on developing data-driven solutions for sustainable water management and ecosystem restoration.
 
-I am a postdoctoral researcher at the Earth System Science Interdisciplinary Center, University of Maryland </br>
+---
 
-My main field of expertise is GIS, Remote-sensing, ecosystem/ carbon/hydrologic/water-quality/agricultural modelling </br>
+## 💼 What I Do
+- 🧪 Hydrologic & hydraulic modeling using **SWAT**, **APEX**, and **HEC-RAS**
+- 🌍 Geospatial analysis with **ArcGIS**, **QGIS**, and **Google Earth Engine**
+- 📡 Remote sensing integration using **ENVI**, **ERDAS IMAGINE**, and satellite datasets
+- 🐍 Programming in **Python** and **R** for data analysis, visualization, and model automation
+- 💧 Research in watershed modeling, and water quality improvement
 
-I’m learning codes for data analys/visualization.</br>
+---
 
-I’m currently learning python (i-python notebook in Jupyter) and r (R studio).</br>
+## 🔭 Current Projects
+- Improving SWAT model simulations through land-use specific calibration with remote sensing data (ET, LAI, NPP)
+- Integrating soil moisture datasets (e.g., SMAP) for enhanced streamflow predictions
+- Developing reproducible workflows for large-scale hydrologic modeling
+
+---
+
+## 🛠️ Tech Stack
+`SWAT` • `HEC-RAS` • `HSPF` • `APEX`• `ArcGIS` • `QGIS` • `ENVI` • `Google Earth Engine`  
+`Python` • `R` • `Jupyter` • `Git`  • `Remote Sensing` • `Hydrologic Modeling`
+
+---
+
+## 📫 Let's Connect
 
 <a href="https://scholar.google.co.kr/citations?user=XHexQEoAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
@@ -34,11 +52,16 @@ I’m currently learning python (i-python notebook in Jupyter) and r (R studio).
   <img align="left" alt="TDA's Publons" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/publons.svg" />
 </a>
 
-<a href="https://twitter.com/Aavayy">
+<a href="https://twitter.com/Aavayy"> 
   <img align="left" alt="TDA's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br/>
 
+------
+
+## 📫 Thanks for stopping by!
+
+Feel free to star ⭐ or fork 🔀 anything you find useful.*
 <!---
 avay-risal/avay-risal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
