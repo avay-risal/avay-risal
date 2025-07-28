@@ -1,7 +1,6 @@
  # 👋 Hi there, I'm Avay Risal, Ph.D.
 
-I'm a Postdoctoral Researcher with a deep passion for **water resources engineering**, **hydrologic/hydraulic modeling**, and **geospatial data analysis**. With over six years of research experience, my work focuses on developing data-driven solutions for sustainable water management and ecosystem restoration.
-
+I'm a Hydrologist with a deep passion for **ground water resource*, **hydrologic/hydraulic modeling**, and **geospatial data analysis**. My work focuses on developing data-driven solutions for sustainable water management.
 ---
 
 ## 💼 What I Do
