@@ -1,7 +1,7 @@
  # 👋 Hi there, I'm Avay Risal, Ph.D.
 
 I'm a Hydrologist with a deep passion for **ground water resource**, **hydrologic/hydraulic modeling**, and **geospatial data analysis**. My work focuses on developing data-driven solutions for sustainable water management.
----
+
 
 ## 💼 What I Do
 - 🧪 Hydrologic & hydraulic modeling using **SWAT**, **APEX**, and **HEC-RAS**
