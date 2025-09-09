@@ -4,7 +4,7 @@ I'm a Hydrologist with a deep passion for **ground water resource**, **hydrologi
 
 
 ## 💼 What I Do
-- 🧪 Hydrologic & hydraulic modeling using **SWAT**, **APEX**, and **HEC-RAS**
+- 🧪 Hydrologic & hydraulic modeling using **SWAT**, **MODFLOW**, **APEX**, and **HEC-RAS**
 - 🌍 Geospatial analysis with **ArcGIS**, **QGIS**, and **Google Earth Engine**
 - 📡 Remote sensing integration using **ENVI**, **ERDAS IMAGINE**, and satellite datasets
 - 🐍 Programming in **Python** and **R** for data analysis, visualization, and model automation
